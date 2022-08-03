@@ -12,6 +12,26 @@
 }
 
 .ak-name span{
-    font-size: 50px;
-    
+    font-size: 45px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.ak-profession span{
+    font-size: 28px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.ak-text{
+    font-size: 18px;
+    color: #fff;
+}
+
+.mt-n1 {
+    margin-top: -0.25rem !important;
+}
+
+.mt-n2 {
+    margin-top: -0.5rem !important;
 }

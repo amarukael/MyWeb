@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <Router>
         <NavbarMenu />
-
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
